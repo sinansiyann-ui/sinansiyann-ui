@@ -15,27 +15,27 @@ Focused on distributed boundaries, state management, and latency control.
 
 ---
 
-### BUILD
+### BUILD SURFACE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/High--Throughput_APIs-0f172a?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Service_Systems-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postgres_Data_Layers-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Caching_&_Latency_Optimization-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Backend_Services-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Observability_Testing-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-High--Throughput-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEM-Multi--Service-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA-Postgres_Layers-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PERF-Latency_&_Caching-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-LLM_Backends-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OBS-Observability-111827?style=for-the-badge" />
 </p>
 
 ---
 
-### STACK
+### EXECUTION LAYER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis" />
 </p>
 
 ---
@@ -45,9 +45,9 @@ Focused on distributed boundaries, state management, and latency control.
 ```
 Design for failure.
 Measure before optimizing.
-Minimize shared state.
-Prefer simplicity over abstraction.
-Scale deliberately.
+Eliminate shared state.
+Prefer simplicity.
+Scale intentionally.
 ```
 
 ---
@@ -69,5 +69,5 @@ Scale deliberately.
 ---
 
 <p align="center">
-  <sub>Backend → Distributed Systems → AI Infrastructure</sub>
+  <sub>Quiet execution. Long-term systems.</sub>
 </p>
