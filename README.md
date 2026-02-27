@@ -33,13 +33,13 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ EXECUTION LAYER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Linux-f5f5f5?style=flat-square&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-f5f5f5?style=flat-square&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/Docker-f5f5f5?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Redis-f5f5f5?style=flat-square&logo=redis&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/FastAPI-f5f5f5?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Kafka-f5f5f5?style=flat-square&logo=apachekafka&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
 ---
@@ -47,14 +47,42 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ SIGNAL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=f5f5f5&title_color=000000&text_color=333333&border_color=cccccc&langs_count=6&custom_title=MOST+USED+LANGUAGES&cache_seconds=1800" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&border_color=444444&langs_count=6&custom_title=MOST+USED+LANGUAGES"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&border_color=cccccc&langs_count=6&custom_title=MOST+USED+LANGUAGES"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&langs_count=6&custom_title=MOST+USED+LANGUAGES" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=444444&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&border_color=cccccc&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=f5f5f5&title_color=000000&text_color=333333&icon_color=000000&border_color=cccccc&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/000000/sinansiyann-ui" alt="sinansiyann contribution 
-    chart" />
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=0d1117&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&border_color=444444&custom_title=COMMIT+GRAPH&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=000000&line=999999&point=000000&area=true&area_color=eeeeee&border_color=cccccc&custom_title=COMMIT+GRAPH&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT+GRAPH" />
+  </
+    picture>
 </p>
