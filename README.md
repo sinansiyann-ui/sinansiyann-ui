@@ -1,34 +1,37 @@
 <h1 align="center">sinansiyann</h1>
 
 <p align="center">
-  <sub>Distributed Architecture · Backend Systems · AI Infrastructure</sub>
+  <sub>Backend Systems → Distributed Architecture → AI Infrastructure</sub>
 </p>
 
 ---
 
-### SYSTEM
+### ◼ SYSTEM PROFILE
 
 ```
-Backend engineer designing for scale, failure, and long-term maintainability.
-Focused on distributed boundaries, state management, and latency control.
+Backend engineer focused on scale, failure tolerance, and long-term maintainability.
+Thinking in boundaries, state control, and latency budgets.
 ```
 
 ---
 
-### BUILD SURFACE
+### ◼ BUILD VECTOR
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API-High--Throughput-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SYSTEM-Multi--Service-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DATA-Postgres_Layers-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PERF-Latency_&_Caching-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-LLM_Backends-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OBS-Observability-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-HIGH_THROUGHPUT-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEM-MULTI_SERVICE-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA-POSTGRES_LAYERS-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PERF-LATENCY_CONTROL-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-LLM_BACKENDS-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OBS-OBSERVABILITY-111827?style=for-the-badge" />
 </p>
 
 ---
 
-### EXECUTION LAYER
+### ◼ EXECUTION LAYER
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
@@ -40,27 +43,23 @@ Focused on distributed boundaries, state management, and latency control.
 
 ---
 
-### PRINCIPLES
+### ◼ ARCHITECTURE LAWS
 
 ```
-Design for failure.
-Measure before optimizing.
-Eliminate shared state.
-Prefer simplicity.
-Scale intentionally.
+01  DESIGN FOR FAILURE
+02  MEASURE BEFORE OPTIMIZING
+03  ELIMINATE SHARED STATE
+04  PREFER SIMPLICITY
+05  SCALE INTENTIONALLY
 ```
 
 ---
 
-### ACTIVITY
+### ◼ SIGNAL
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github-dark&hide_border=true&bg_color=0d1117" />
 </p>
-
----
-
-### LANGUAGE DISTRIBUTION
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&theme=github_dark&hide_border=true" />
@@ -69,5 +68,5 @@ Scale intentionally.
 ---
 
 <p align="center">
-  <sub>Quiet execution. Long-term systems.</sub>
+  <sub>SYSTEM STATUS: BUILDING</sub>
 </p>
