@@ -32,15 +32,44 @@ Thinking in boundaries, state, and latency budgets.
 
 ### ◼ EXECUTION LAYER
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-transparent?style=flat-square&logo=python&logoColor=3776AB&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Linux-transparent?style=flat-square&logo=linux&logoColor=FCC624&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/PostgreSQL-transparent?style=flat-square&logo=postgresql&logoColor=336791&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Docker-transparent?style=flat-square&logo=docker&logoColor=2496ED&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Redis-transparent?style=flat-square&logo=redis&logoColor=DC382D&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/FastAPI-transparent?style=flat-square&logo=fastapi&logoColor=009688&labelColor=transparent&color=transparent" />
-  <img src="https://img.shields.io/badge/Kafka-transparent?style=flat-square&logo=apachekafka&logoColor=aaaaaa&labelColor=transparent&color=transparent" />
-</p>
+<!-- Dark mode: contribution graph empty cell = #161b22, filled = #0e4429..#39d353 -->
+<!-- Light mode: empty cell = #ebedf0, filled = #9be9a8..#216e39 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB&labelColor=161b22&color=161b22&logoSize=20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-ebedf0?style=flat-square&logo=python&logoColor=3776AB&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-ebedf0?style=flat-square&logo=linux&logoColor=FCC624&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=336791&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-ebedf0?style=flat-square&logo=postgresql&logoColor=336791&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=336791" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-ebedf0?style=flat-square&logo=docker&logoColor=2496ED&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Redis-ebedf0?style=flat-square&logo=redis&logoColor=DC382D&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-ebedf0?style=flat-square&logo=fastapi&logoColor=009688&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=888888&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kafka-ebedf0?style=flat-square&logo=apachekafka&logoColor=555555&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=888888" />
+</picture>
 
 ---
 
@@ -83,6 +112,6 @@ Thinking in boundaries, state, and latency budgets.
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT+GRAPH" />
-  </
-    picture>
+  <
+  /picture>
 </p>
