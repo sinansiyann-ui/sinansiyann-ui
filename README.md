@@ -31,7 +31,7 @@ Focused on distributed boundaries, state management, and latency control.
 ### STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,postgres,docker,redis,git" />
+  <img height="32" src="https://skillicons.dev/icons?i=python,linux,postgres,docker,redis,git&theme=dark" />
 </p>
 
 ---
