@@ -21,7 +21,8 @@ Thinking in boundaries, state, and latency budgets.
   <img src="https://img.shields.io/badge/HIGH_THROUGHPUT_API-000000?style=for-the-badge&color=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-000000?style=for-the-badge&color=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/POSTGRES_DATA_LAYER-000000?style=for-the-badge&color=000000&labelColor=000000" />
-</p><p align="center">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/LATENCY_CONTROL-000000?style=for-the-badge&color=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/LLM_BACKENDS-000000?style=for-the-badge&color=000000&labelColor=000000" />
   <img src="https://img.shields.io/badge/OBSERVABILITY-000000?style=for-the-badge&color=000000&labelColor=000000" />
@@ -32,10 +33,10 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ EXECUTION LAYER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -43,14 +44,12 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ SIGNAL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann&layout=compact&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=888888&border_color=333333&hide_border=false&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&border_color=000000&langs_count=6&custom_title=MOST+USED+LANGUAGES" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinansiyann&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&hide_border=false&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann&bg_color=0d1117&color=ffffff&line=444444&point=ffffff&area=true&area_color=222222&border_color=333333&hide_border=false&custom_title=COMMIT+
-    GRAPH" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&border_color=000000&custom_title=COMMIT+G
+    RAPH" />
 </p>
