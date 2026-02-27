@@ -19,13 +19,13 @@ Thinking in boundaries, state, and latency budgets.
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/API-HIGH_THROUGHPUT-00000000?style=for-the-badge&labelColor=00000000&color=00000000" />
-<img src="https://img.shields.io/badge/SYSTEM-MULTI_SERVICE-00000000?style=for-the-badge&labelColor=00000000&color=00000000" />
-<img src="https://img.shields.io/badge/DATA-POSTGRES_LAYER-00000000?style=for-the-badge&labelColor=00000000&color=00000000" />
+<img src="https://img.shields.io/badge/API-HIGH_THROUGHPUT-1f2937?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/SYSTEM-MULTI_SERVICE-1f2937?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/DATA-POSTGRES_LAYER-1f2937?style=for-the-badge&labelColor=111827" />
 <br/>
-<img src="https://img.shields.io/badge/PERF-LATENCY_CONTROL-00000000?style=for-the-badge&labelColor=00000000&color=00000000" />
-<img src="https://img.shields.io/badge/AI-LLM_BACKENDS-00000000?style=for-the-badge&labelColor=00000000&color=00000000" />
-<img src="https://img.shields.io/badge/OBS-OBSERVABILITY-00000000?style=for-the-badge&labelColor=00000000&color=00000000" />
+<img src="https://img.shields.io/badge/PERF-LATENCY_CONTROL-1f2937?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/AI-LLM_BACKENDS-1f2937?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/OBS-OBSERVABILITY-1f2937?style=for-the-badge&labelColor=111827" />
 
 </div>
 
@@ -35,11 +35,11 @@ Thinking in boundaries, state, and latency budgets.
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Python-00000000?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Linux-00000000?style=flat-square&logo=linux" />
-<img src="https://img.shields.io/badge/PostgreSQL-00000000?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/Docker-00000000?style=flat-square&logo=docker" />
-<img src="https://img.shields.io/badge/Redis-00000000?style=flat-square&logo=redis" />
+<img src="https://img.shields.io/badge/Python-374151?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-374151?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-374151?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-374151?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-374151?style=flat-square&logo=redis&logoColor=white" />
 
 </div>
 
@@ -60,11 +60,11 @@ SCALE INTENTIONALLY
 ### ◼ SIGNAL
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github&hide_border=true&bg_color=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&hide_border=true&hide_title=true&bg_color=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&hide_border=true&hide_title=true" />
 </p>
 
 ---
