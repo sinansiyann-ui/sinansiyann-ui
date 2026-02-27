@@ -48,6 +48,22 @@ Scale deliberately.
 
 ---
 
+### ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github-dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+### LANGUAGE DISTRIBUTION
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
 <p align="center">
   <sub>Backend → Distributed Systems → AI Infrastructure</sub>
 </p>
