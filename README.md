@@ -15,63 +15,60 @@
 ```
 Identity   : Backend Systems Engineer (in progress)
 Thinking   : Concurrency · Latency · Failure Modes
-Approach   : Systems-first, not framework-first
-Priority   : Reliability > Hype
-Trajectory : Backend → Distributed Systems → AI Infrastructure
-```
-
----
-
-## ▣ CURRENT BUILD SURFACE
-
-```
-• High-concurrency REST APIs
-• Containerized multi-service systems
-• Postgres-heavy data layers
-• Caching & performance tuning
-• LLM-integrated backend services
-• Observability & failure simulation
-```
-
----
-
-## ▣ STACK
+<h1 align="center">sinansiyann</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,postgres,docker,git,redis" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=4500&pause=1000&color=8AB4F8&center=true&vCenter=true&width=520&lines=Backend+Systems;Distributed+Architecture;AI+Infrastructure" />
 </p>
 
 ---
 
-## ▣ ARCHITECTURE PHILOSOPHY
-
 ```
-1. Design for failure, not demos.
-2. Measure before optimizing.
-3. Reduce shared state.
-4. Keep services composable.
-5. Remove unnecessary complexity.
+Systems-focused backend engineer.
+Designing for scale, failure, and long-term maintainability.
 ```
 
 ---
 
-## ▣ SYSTEM METRICS
+### BUILDING
 
 ```
-Focus Depth        ███████░░░  70%
-Infrastructure     ██████░░░░  60%
-Distributed Logic  █████░░░░░  50%
-AI Integration     ████░░░░░░  40%
+• High-throughput APIs
+• Multi-service containerized systems
+• Postgres-driven data layers
+• Caching & latency optimization
+• LLM-backed backend services
+• Observability & failure testing
+```
+
+---
+
+### STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,postgres,docker,redis,git" />
+</p>
+
+---
+
+### PRINCIPLES
+
+```
+- Design for failure.
+- Measure before optimizing.
+- Minimize shared state.
+- Prefer simplicity over abstraction.
+- Scale deliberately.
 ```
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github-dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Scale quietly. Ship deliberately. Avoid noise.</sub>
+  <sub>Backend → Distributed Systems → AI Infrastructure</sub>
 </p>
