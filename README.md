@@ -1,45 +1,77 @@
 <h1 align="center">sinansiyann</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=5DADE2&center=true&vCenter=true&width=600&lines=Backend+Engineering;Distributed+Systems;AI+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=900&color=6FA8DC&center=true&vCenter=true&width=550&lines=Backend+Engineering;Distributed+Systems;AI+Infrastructure+Track" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinansiyann-ui&color=0f172a&style=flat-square" />
 </p>
 
 ---
 
-## SYSTEM IDENTITY
+## ▣ SYSTEM PROFILE
 
-Building backend systems that hold under load. Thinking in concurrency, latency, and failure modes. Moving toward AI infrastructure engineering.
-
----
-
-## CURRENT FOCUS
-
-• High-throughput APIs  
-• Multi-service containerized systems  
-• Database optimization & caching strategy  
-• LLM-backed services with observability  
+```
+Identity   : Backend Systems Engineer (in progress)
+Thinking   : Concurrency · Latency · Failure Modes
+Approach   : Systems-first, not framework-first
+Priority   : Reliability > Hype
+Trajectory : Backend → Distributed Systems → AI Infrastructure
+```
 
 ---
 
-## STACK SURFACE
+## ▣ CURRENT BUILD SURFACE
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=white"/>
+```
+• High-concurrency REST APIs
+• Containerized multi-service systems
+• Postgres-heavy data layers
+• Caching & performance tuning
+• LLM-integrated backend services
+• Observability & failure simulation
+```
+
+---
+
+## ▣ STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,postgres,docker,git,redis" />
 </p>
 
 ---
 
-## ARCHITECTURE PATH
+## ▣ ARCHITECTURE PHILOSOPHY
 
-Backend  
-→ Distributed Systems  
-→ AI Systems Engineering  
+```
+1. Design for failure, not demos.
+2. Measure before optimizing.
+3. Reduce shared state.
+4. Keep services composable.
+5. Remove unnecessary complexity.
+```
+
+---
+
+## ▣ SYSTEM METRICS
+
+```
+Focus Depth        ███████░░░  70%
+Infrastructure     ██████░░░░  60%
+Distributed Logic  █████░░░░░  50%
+AI Integration     ████░░░░░░  40%
+```
 
 ---
 
 <p align="center">
-  <sub>Design for scale. Optimize for reliability. Avoid noise.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Scale quietly. Ship deliberately. Avoid noise.</sub>
 </p>
