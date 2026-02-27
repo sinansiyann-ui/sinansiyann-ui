@@ -1,8 +1,3 @@
-## <SYSTEM>
-## <BUILD_SURFACE>
-## <STACK>
-## <ENGINEERING_PRINCIPLES>
-
 <h1 align="center">sinansiyann</h1>
 
 <p align="center">
