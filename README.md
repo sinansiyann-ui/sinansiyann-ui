@@ -33,10 +33,13 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ EXECUTION LAYER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Linux-f5f5f5?style=flat-square&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-f5f5f5?style=flat-square&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Docker-f5f5f5?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Redis-f5f5f5?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/FastAPI-f5f5f5?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Kafka-f5f5f5?style=flat-square&logo=apachekafka&logoColor=000000" />
 </p>
 
 ---
@@ -44,12 +47,14 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ SIGNAL
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=ffffff&title_color=000000&text_color=333333&border_color=000000&langs_count=6&custom_title=MOST+USED+LANGUAGES" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=f5f5f5&title_color=000000&text_color=333333&border_color=cccccc&langs_count=6&custom_title=MOST+USED+LANGUAGES&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&border_color=000000&custom_title=COMMIT+G
-    RAPH" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=f5f5f5&title_color=000000&text_color=333333&icon_color=000000&border_color=cccccc&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME+METRICS&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/000000/sinansiyann-ui" alt="sinansiyann contribution 
+    chart" />
 </p>
