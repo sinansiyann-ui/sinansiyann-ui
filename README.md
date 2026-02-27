@@ -6,7 +6,7 @@
 
 ---
 
-### SYSTEM
+## <SYSTEM>
 
 ```
 Backend engineer designing for scale, failure, and long-term maintainability.
