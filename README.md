@@ -1,49 +1,53 @@
+<h1 align="center"> <your_name> </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Systems+Engineer+Loading...;Designing+Under+Constraints;Performance+Matters;Reliability+First" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Systems+Engineer+in+Progress;Backend+%E2%86%92+Infrastructure+%E2%86%92+AI+Systems;Building+for+Constraints,+Not+Trends" />
 </p>
 
 ---
 
-## 🧠 Focus
+### Profile
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-0A192F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge" />
+Self-taught engineer focused on systems-level thinking.
+
+Current direction:
+- Backend architecture
+- Linux & networking fundamentals
+- Databases & caching strategy
+- Containerized infrastructure
+- AI model serving & cost control
+
+I optimize for:
+- Reliability
+- Performance
+- Clarity
+- Ownership
+
+---
+
+### Active Work
+
+- Designing APIs under load constraints  
+- Profiling async vs sync performance  
+- Containerizing multi-service systems  
+- Integrating LLM pipelines with observability  
+
+---
+
+### Tech Surface
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-111111?style=flat"/>
 </p>
 
 ---
 
-## 🚧 Currently Building
+### Direction
 
-- High concurrency APIs  
-- Containerized microservices  
-- AI-integrated backend systems  
-- Performance benchmarks  
+Backend → Distributed Systems → AI Infrastructure
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your_name>&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your_name>&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=<your_name>&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Direction
-
-Backend → Systems → AI Infrastructure  
-
-If it doesn’t scale, it doesn’t count.
+If it doesn't scale, it's incomplete.
