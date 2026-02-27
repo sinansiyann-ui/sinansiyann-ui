@@ -33,13 +33,13 @@ Thinking in boundaries, state, and latency budgets.
 ### ◼ EXECUTION LAYER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-transparent?style=flat-square&logo=python&logoColor=3776AB&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Linux-transparent?style=flat-square&logo=linux&logoColor=FCC624&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/PostgreSQL-transparent?style=flat-square&logo=postgresql&logoColor=336791&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Docker-transparent?style=flat-square&logo=docker&logoColor=2496ED&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Redis-transparent?style=flat-square&logo=redis&logoColor=DC382D&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/FastAPI-transparent?style=flat-square&logo=fastapi&logoColor=009688&labelColor=transparent&color=transparent" />
+  <img src="https://img.shields.io/badge/Kafka-transparent?style=flat-square&logo=apachekafka&logoColor=aaaaaa&labelColor=transparent&color=transparent" />
 </p>
 
 ---
@@ -75,11 +75,11 @@ Thinking in boundaries, state, and latency budgets.
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=0d1117&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&border_color=444444&custom_title=COMMIT+GRAPH&hide_border=false"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=0d1117&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&border_color=444444&custom_title=COMMIT+GRAPH"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=000000&line=999999&point=000000&area=true&area_color=eeeeee&border_color=cccccc&custom_title=COMMIT+GRAPH&hide_border=false"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=000000&line=999999&point=000000&area=true&area_color=eeeeee&border_color=cccccc&custom_title=COMMIT+GRAPH"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT+GRAPH" />
