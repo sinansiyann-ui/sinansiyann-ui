@@ -1,7 +1,7 @@
 <h1 align="center">sinansiyann</h1>
 
 <p align="center">
-  <sub>Backend Systems → Distributed Architecture → AI Infrastructure</sub>
+  <sub>Backend Systems → Distributed Systems → AI Infrastructure</sub>
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### ◼ SYSTEM PROFILE
 
 ```
-Backend engineer focused on scale, failure tolerance, and long-term maintainability.
-Thinking in boundaries, state control, and latency budgets.
+Designing backend systems for scale, failure tolerance, and longevity.
+Thinking in boundaries, state, and latency budgets.
 ```
 
 ---
@@ -18,15 +18,15 @@ Thinking in boundaries, state control, and latency budgets.
 ### ◼ BUILD VECTOR
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API-HIGH_THROUGHPUT-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SYSTEM-MULTI_SERVICE-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DATA-POSTGRES_LAYERS-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HIGH_THROUGHPUT_API-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/POSTGRES_DATA_LAYER-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PERF-LATENCY_CONTROL-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-LLM_BACKENDS-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OBS-OBSERVABILITY-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LATENCY_CONTROL-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_BACKENDS-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OBSERVABILITY-111827?style=for-the-badge" />
 </p>
 
 ---
@@ -46,11 +46,11 @@ Thinking in boundaries, state control, and latency budgets.
 ### ◼ ARCHITECTURE LAWS
 
 ```
-01  DESIGN FOR FAILURE
-02  MEASURE BEFORE OPTIMIZING
-03  ELIMINATE SHARED STATE
-04  PREFER SIMPLICITY
-05  SCALE INTENTIONALLY
+DESIGN FOR FAILURE
+MEASURE BEFORE OPTIMIZING
+ELIMINATE SHARED STATE
+PREFER SIMPLICITY
+SCALE INTENTIONALLY
 ```
 
 ---
@@ -62,7 +62,7 @@ Thinking in boundaries, state control, and latency budgets.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
 </p>
 
 ---
