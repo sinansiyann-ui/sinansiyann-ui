@@ -31,7 +31,11 @@ Focused on distributed boundaries, state management, and latency control.
 ### STACK
 
 <p align="center">
-  <img height="28" src="https://skillicons.dev/icons?i=python,linux,postgres,docker,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ---
