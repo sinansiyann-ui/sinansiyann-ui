@@ -1,23 +1,6 @@
 <h1 align="center">sinansiyann</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=900&color=6FA8DC&center=true&vCenter=true&width=550&lines=Backend+Engineering;Distributed+Systems;AI+Infrastructure+Track" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinansiyann-ui&color=0f172a&style=flat-square" />
-</p>
-
----
-
-## ▣ SYSTEM PROFILE
-
-```
-Identity   : Backend Systems Engineer (in progress)
-Thinking   : Concurrency · Latency · Failure Modes
-<h1 align="center">sinansiyann</h1>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=4500&pause=1000&color=8AB4F8&center=true&vCenter=true&width=520&lines=Backend+Systems;Distributed+Architecture;AI+Infrastructure" />
 </p>
 
