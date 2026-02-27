@@ -17,26 +17,51 @@ Thinking in boundaries, state, and latency budgets.
 
 ### ◼ BUILD VECTOR
 
+<!-- Dark filled cell colors from contribution graph: #0e4429 #006d32 #26a641 #39d353 -->
+<!-- Light filled cell colors: #9be9a8 #40c463 #30a14e #216e39 -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HIGH_THROUGHPUT_API-000000?style=for-the-badge&color=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-000000?style=for-the-badge&color=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/POSTGRES_DATA_LAYER-000000?style=for-the-badge&color=000000&labelColor=000000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH_THROUGHPUT_API-0e4429?style=flat-square&labelColor=0e4429&color=0e4429&logoColor=white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH_THROUGHPUT_API-216e39?style=flat-square&labelColor=216e39&color=216e39&logoColor=white" />
+    <img src="https://img.shields.io/badge/HIGH_THROUGHPUT_API-0e4429?style=flat-square" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-006d32?style=flat-square&labelColor=006d32&color=006d32" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-30a14e?style=flat-square&labelColor=30a14e&color=30a14e" />
+    <img src="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-006d32?style=flat-square" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POSTGRES_DATA_LAYER-26a641?style=flat-square&labelColor=26a641&color=26a641" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POSTGRES_DATA_LAYER-40c463?style=flat-square&labelColor=40c463&color=40c463" />
+    <img src="https://img.shields.io/badge/POSTGRES_DATA_LAYER-26a641?style=flat-square" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LATENCY_CONTROL-000000?style=for-the-badge&color=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LLM_BACKENDS-000000?style=for-the-badge&color=000000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/OBSERVABILITY-000000?style=for-the-badge&color=000000&labelColor=000000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LATENCY_CONTROL-39d353?style=flat-square&labelColor=39d353&color=39d353&logoColor=black" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LATENCY_CONTROL-9be9a8?style=flat-square&labelColor=9be9a8&color=9be9a8&logoColor=black" />
+    <img src="https://img.shields.io/badge/LATENCY_CONTROL-39d353?style=flat-square" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM_BACKENDS-26a641?style=flat-square&labelColor=26a641&color=26a641" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LLM_BACKENDS-30a14e?style=flat-square&labelColor=30a14e&color=30a14e" />
+    <img src="https://img.shields.io/badge/LLM_BACKENDS-26a641?style=flat-square" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OBSERVABILITY-006d32?style=flat-square&labelColor=006d32&color=006d32" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OBSERVABILITY-216e39?style=flat-square&labelColor=216e39&color=216e39" />
+    <img src="https://img.shields.io/badge/OBSERVABILITY-006d32?style=flat-square" />
+  </picture>
 </p>
 
 ---
 
 ### ◼ EXECUTION LAYER
 
-<!-- Dark mode: contribution graph empty cell = #161b22, filled = #0e4429..#39d353 -->
-<!-- Light mode: empty cell = #ebedf0, filled = #9be9a8..#216e39 -->
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB&labelColor=161b22&color=161b22&logoSize=20" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB&labelColor=161b22&color=161b22" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-ebedf0?style=flat-square&logo=python&logoColor=3776AB&labelColor=ebedf0&color=ebedf0" />
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
 </picture>
@@ -70,6 +95,7 @@ Thinking in boundaries, state, and latency budgets.
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kafka-ebedf0?style=flat-square&logo=apachekafka&logoColor=555555&labelColor=ebedf0&color=ebedf0" />
   <img src="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=888888" />
 </picture>
+</p>
 
 ---
 
@@ -113,5 +139,5 @@ Thinking in boundaries, state, and latency budgets.
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT+GRAPH" />
   <
-  /picture>
+    /picture>
 </p>
