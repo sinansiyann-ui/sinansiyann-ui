@@ -19,35 +19,35 @@ Thinking in boundaries, state, and latency budgets.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH__THROUGHPUT__API-ffffff?style=flat-square&labelColor=ffffff&color=ffffff&logoColor=000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH__THROUGHPUT__API-000000?style=flat-square&labelColor=000000&color=000000&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/HIGH__THROUGHPUT__API-ffffff?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-000000?style=flat-square&labelColor=000000&color=000000" />
+    <img src="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-ffffff?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MULTI__SERVICE__SYSTEM-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa&logoColor=000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MULTI__SERVICE__SYSTEM-555555?style=flat-square&labelColor=555555&color=555555&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/MULTI__SERVICE__SYSTEM-aaaaaa?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-555555?style=flat-square&labelColor=555555&color=555555" />
+    <img src="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-aaaaaa?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POSTGRES__DATA__LAYER-555555?style=flat-square&labelColor=555555&color=555555&logoColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POSTGRES__DATA__LAYER-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa&logoColor=000000" />
-    <img src="https://img.shields.io/badge/POSTGRES__DATA__LAYER-555555?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-555555?style=flat-square&labelColor=555555&color=555555" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa" />
+    <img src="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-555555?style=flat-square" />
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LATENCY__CONTROL-555555?style=flat-square&labelColor=555555&color=555555&logoColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LATENCY__CONTROL-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa&logoColor=000000" />
-    <img src="https://img.shields.io/badge/LATENCY__CONTROL-555555?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LATENCY%20CONTROL-555555?style=flat-square&labelColor=555555&color=555555" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LATENCY%20CONTROL-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa" />
+    <img src="https://img.shields.io/badge/LATENCY%20CONTROL-555555?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM__BACKENDS-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa&logoColor=000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LLM__BACKENDS-555555?style=flat-square&labelColor=555555&color=555555&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/LLM__BACKENDS-aaaaaa?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20BACKENDS-aaaaaa?style=flat-square&labelColor=aaaaaa&color=aaaaaa" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LLM%20BACKENDS-555555?style=flat-square&labelColor=555555&color=555555" />
+    <img src="https://img.shields.io/badge/LLM%20BACKENDS-aaaaaa?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OBSERVABILITY-ffffff?style=flat-square&labelColor=ffffff&color=ffffff&logoColor=000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OBSERVABILITY-000000?style=flat-square&labelColor=000000&color=000000&logoColor=ffffff" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OBSERVABILITY-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OBSERVABILITY-000000?style=flat-square&labelColor=000000&color=000000" />
     <img src="https://img.shields.io/badge/OBSERVABILITY-ffffff?style=flat-square" />
   </picture>
 </p>
@@ -100,41 +100,29 @@ Thinking in boundaries, state, and latency budgets.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinansiyann-ui&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinansiyann-ui&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=0d1117&title_color=cccccc&text_color=888888&border_color=21262d&langs_count=6&custom_title=MOST%20USED%20LANGUAGES&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&bg_color=ffffff&title_color=333333&text_color=555555&border_color=d1d9e0&langs_count=6&custom_title=MOST%20USED%20LANGUAGES&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinansiyann-ui&layout=compact&langs_count=6&custom_title=MOST%20USED%20LANGUAGES" />
   </picture>
+  &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github_dark" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github_dark&utcOffset=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github&utcOffset=4" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github_dark&utcOffset=4" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinansiyann-ui&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinansiyann-ui&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=0d1117&title_color=cccccc&text_color=888888&icon_color=888888&border_color=21262d&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME%20METRICS&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=555555&border_color=d1d9e0&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME%20METRICS&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sinansiyann-ui&show_icons=true&include_all_commits=true&count_private=true&hide=stars&custom_title=RUNTIME%20METRICS" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=0d1117&color=aaaaaa&line=333333&point=aaaaaa&area=true&area_color=161b22&border_color=21262d&custom_title=COMMIT+GRAPH"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=0d1117&color=888888&line=21262d&point=cccccc&area=true&area_color=161b22&border_color=21262d&custom_title=COMMIT%20GRAPH"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=555555&line=d1d9e0&point=333333&area=true&area_color=f5f5f5&border_color=d1d9e0&custom_title=COMMIT+GRAPH"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=555555&line=d1d9e0&point=333333&area=true&area_color=f5f5f5&border_color=d1d9e0&custom_title=COMMIT%20GRAPH"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT+GRAPH" />
-  <
-  /picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
+  </
+    picture>
 </p>
