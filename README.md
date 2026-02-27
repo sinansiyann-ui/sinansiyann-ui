@@ -17,14 +17,14 @@ Focused on distributed boundaries, state management, and latency control.
 
 ### BUILD
 
-```
-• High-throughput APIs
-• Multi-service containerized systems
-• Postgres-backed data layers
-• Caching & performance tuning
-• LLM-integrated backend services
-• Observability-driven testing
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/High--Throughput_APIs-0f172a?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Service_Systems-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postgres_Data_Layers-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caching_&_Latency_Optimization-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Backend_Services-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Observability_Testing-0f172a?style=for-the-badge" />
+</p>
 
 ---
 
