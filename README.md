@@ -14,19 +14,16 @@ Thinking in boundaries, state, and latency budgets.
 ```
 
 ---
-
 ### ◼ BUILD VECTOR
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HIGH_THROUGHPUT_API-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MULTI_SERVICE_SYSTEM-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/POSTGRES_DATA_LAYER-111827?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LATENCY_CONTROL-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_BACKENDS-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OBSERVABILITY-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-HIGH_THROUGHPUT-000000?style=for-the-badge&labelColor=111827&color=000000" />
+  <img src="https://img.shields.io/badge/SYSTEM-MULTI_SERVICE-000000?style=for-the-badge&labelColor=111827&color=000000" />
+  <img src="https://img.shields.io/badge/DATA-POSTGRES_LAYER-000000?style=for-the-badge&labelColor=111827&color=000000" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/PERF-LATENCY_CONTROL-000000?style=for-the-badge&labelColor=111827&color=000000" />
+  <img src="https://img.shields.io/badge/AI-LLM_BACKENDS-000000?style=for-the-badge&labelColor=111827&color=000000" />
+  <img src="https://img.shields.io/badge/OBS-OBSERVABILITY-000000?style=for-the-badge&labelColor=111827&color=000000" />
 </p>
 
 ---
