@@ -16,18 +16,19 @@
 
 ```bash
 $ whoami
-  sinansiyann
+  sinansiyann — backend engineer, performance obsessed
 
-$ cat focus.txt
-  backend engineer · distributed systems · AI infrastructure
+$ cat now.txt
+  building LLM-powered backend services
+  making them fast, not just functional
 
-$ ps aux | grep current
-  → designing APIs that don't fall over under load
-  → building service boundaries that actually hold
-  → wiring LLMs into production systems
+$ grep -i "cares about" engineer.conf
+  latency       → every ms counts
+  throughput    → scale or it doesn't matter
+  correctness   → if the data's wrong, nothing else matters
 
-$ uptime
-  thinking in latency budgets, failure domains, and clean contracts
+$ tail -1 /var/log/thoughts.log
+  [INFO] good systems are boring. boring is the goal.
 ```
 
 <picture>
@@ -88,9 +89,24 @@ $ uptime
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-ebedf0?style=flat-square&logo=linux&logoColor=FCC624&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-ebedf0?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-ebedf0?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-ebedf0?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=1572B6&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-ebedf0?style=flat-square&logo=css3&logoColor=1572B6&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=1572B6" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=336791&labelColor=161b22&color=161b22" />
@@ -111,6 +127,11 @@ $ uptime
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688&labelColor=161b22&color=161b22" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-ebedf0?style=flat-square&logo=fastapi&logoColor=009688&labelColor=ebedf0&color=ebedf0" />
   <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-ebedf0?style=flat-square&logo=linux&logoColor=FCC624&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=888888&labelColor=161b22&color=161b22" />
