@@ -6,11 +6,7 @@
   <sub>Backend Systems → Distributed Systems → AI Infrastructure</sub>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false" width="100%" />
 
 <p>◼ SYSTEM PROFILE</p>
 
@@ -19,11 +15,7 @@ Designing backend systems for scale, failure tolerance, and longevity.
 Thinking in boundaries, state, and latency budgets.
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false" width="100%" />
 
 <p>◼ BUILD VECTOR</p>
 
@@ -62,11 +54,7 @@ Thinking in boundaries, state, and latency budgets.
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=true" width="100%" />
 
 <p>◼ EXECUTION LAYER</p>
 
@@ -108,11 +96,7 @@ Thinking in boundaries, state, and latency budgets.
 </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false" width="100%" />
 
 <p>◼ SIGNAL</p>
 
@@ -141,5 +125,5 @@ Thinking in boundaries, state, and latency budgets.
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
   </
-    picture>
+  picture>
 </p>
