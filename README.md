@@ -136,5 +136,5 @@ Thinking in boundaries, state, and latency budgets.
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
   <
-  /picture>
+    /picture>
 </p>
