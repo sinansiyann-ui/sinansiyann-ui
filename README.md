@@ -82,31 +82,12 @@ $ tail -1 /var/log/thoughts.log
 
 <p>◼ EXECUTION LAYER</p>
 
+<!-- CORE — full brand color icons, solid cell bg -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB&labelColor=161b22&color=161b22" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-ebedf0?style=flat-square&logo=python&logoColor=3776AB&labelColor=ebedf0&color=ebedf0" />
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-ebedf0?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-ebedf0?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-ebedf0?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=1572B6&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-ebedf0?style=flat-square&logo=css3&logoColor=1572B6&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=1572B6" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=336791&labelColor=161b22&color=161b22" />
@@ -124,19 +105,33 @@ $ tail -1 /var/log/thoughts.log
   <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-ebedf0?style=flat-square&logo=fastapi&logoColor=009688&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" />
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161b22&color=161b22" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-ebedf0?style=flat-square&logo=linux&logoColor=FCC624&labelColor=ebedf0&color=ebedf0" />
   <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624" />
 </picture>
+</p>
+
+<!-- EXPLORATORY — dimmed icons, same bg, visually recessed -->
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=888888&labelColor=161b22&color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kafka-ebedf0?style=flat-square&logo=apachekafka&logoColor=555555&labelColor=ebedf0&color=ebedf0" />
-  <img src="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=888888" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=555555&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-ebedf0?style=flat-square&logo=javascript&logoColor=aaaaaa&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=555555" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=555555&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-ebedf0?style=flat-square&logo=typescript&logoColor=aaaaaa&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=555555" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=555555&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-ebedf0?style=flat-square&logo=openjdk&logoColor=aaaaaa&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=555555" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=555555&labelColor=161b22&color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-ebedf0?style=flat-square&logo=css3&logoColor=aaaaaa&labelColor=ebedf0&color=ebedf0" />
+  <img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=555555" />
 </picture>
 </p>
 
