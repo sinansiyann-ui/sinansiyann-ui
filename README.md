@@ -6,7 +6,7 @@
 
 ---
 
-### ◼ SYSTEM PROFILE
+<p>◼ SYSTEM PROFILE</p>
 
 ```
 Designing backend systems for scale, failure tolerance, and longevity.
@@ -15,7 +15,7 @@ Thinking in boundaries, state, and latency budgets.
 
 ---
 
-### ◼ BUILD VECTOR
+<p>◼ BUILD VECTOR</p>
 
 <p align="center">
   <picture>
@@ -54,7 +54,7 @@ Thinking in boundaries, state, and latency budgets.
 
 ---
 
-### ◼ EXECUTION LAYER
+<p>◼ EXECUTION LAYER</p>
 
 <p align="center">
 <picture>
@@ -96,7 +96,7 @@ Thinking in boundaries, state, and latency budgets.
 
 ---
 
-### ◼ SIGNAL
+<p>◼ SIGNAL</p>
 
 <p align="center">
   <picture>
