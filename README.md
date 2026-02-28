@@ -145,27 +145,27 @@ $ tail -1 /var/log/thoughts.log
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LetMePractice&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LetMePractice&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LetMePractice&theme=github_dark" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github_dark&utcOffset=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github&utcOffset=4" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github_dark&utcOffset=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LetMePractice&theme=github_dark&utcOffset=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LetMePractice&theme=github&utcOffset=4" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LetMePractice&theme=github_dark&utcOffset=4" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=0d1117&color=888888&line=21262d&point=cccccc&area=true&area_color=161b22&border_color=21262d&custom_title=COMMIT%20GRAPH"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=LetMePractice&bg_color=0d1117&color=888888&line=21262d&point=cccccc&area=true&area_color=161b22&border_color=21262d&custom_title=COMMIT%20GRAPH"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&bg_color=ffffff&color=555555&line=d1d9e0&point=333333&area=true&area_color=f5f5f5&border_color=d1d9e0&custom_title=COMMIT%20GRAPH"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=LetMePractice&bg_color=ffffff&color=555555&line=d1d9e0&point=333333&area=true&area_color=f5f5f5&border_color=d1d9e0&custom_title=COMMIT%20GRAPH"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetMePractice&custom_title=COMMIT%20GRAPH" />
   </picture>
 </p>
