@@ -6,16 +6,19 @@
   <sub>Backend Systems → Distributed Systems → AI Infrastructure</sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
 
 <p>◼ SYSTEM PROFILE</p>
 
-```
-Designing backend systems for scale, failure tolerance, and longevity.
-Thinking in boundaries, state, and latency budgets.
+```python
+class Engineer:
+    focus   = ["backend", "distributed systems", "AI infrastructure"]
+    builds  = ["high-throughput APIs", "multi-service architectures", "LLM backends"]
+    thinks  = ["in latency budgets", "failure domains", "data boundaries"]
+    current = "turning complexity into maintainable systems"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
 
 <p>◼ BUILD VECTOR</p>
 
@@ -54,7 +57,7 @@ Thinking in boundaries, state, and latency budgets.
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
 
 <p>◼ EXECUTION LAYER</p>
 
@@ -96,7 +99,7 @@ Thinking in boundaries, state, and latency budgets.
 </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
 
 <p>◼ SIGNAL</p>
 
