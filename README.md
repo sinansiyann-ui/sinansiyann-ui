@@ -19,36 +19,36 @@ Thinking in boundaries, state, and latency budgets.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-ebedf0?style=flat-square&labelColor=ebedf0&color=ebedf0" />
-    <img src="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-161b22?style=flat-square" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-21262d?style=flat-square&labelColor=21262d&color=21262d&logoColor=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-ebedf0?style=flat-square&labelColor=ebedf0&color=ebedf0&logoColor=000000" />
+    <img src="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-21262d?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-21262d?style=flat-square&labelColor=21262d&color=21262d" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-30363d?style=flat-square&labelColor=30363d&color=30363d" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-d1d9e0?style=flat-square&labelColor=d1d9e0&color=d1d9e0" />
-    <img src="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-21262d?style=flat-square" />
+    <img src="https://img.shields.io/badge/MULTI%20SERVICE%20SYSTEM-30363d?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-2d333b?style=flat-square&labelColor=2d333b&color=2d333b" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-3d444d?style=flat-square&labelColor=3d444d&color=3d444d" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-c8d1da?style=flat-square&labelColor=c8d1da&color=c8d1da" />
-    <img src="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-2d333b?style=flat-square" />
+    <img src="https://img.shields.io/badge/POSTGRES%20DATA%20LAYER-3d444d?style=flat-square" />
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LATENCY%20CONTROL-2d333b?style=flat-square&labelColor=2d333b&color=2d333b" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LATENCY%20CONTROL-3d444d?style=flat-square&labelColor=3d444d&color=3d444d" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LATENCY%20CONTROL-c8d1da?style=flat-square&labelColor=c8d1da&color=c8d1da" />
-    <img src="https://img.shields.io/badge/LATENCY%20CONTROL-2d333b?style=flat-square" />
+    <img src="https://img.shields.io/badge/LATENCY%20CONTROL-3d444d?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20BACKENDS-21262d?style=flat-square&labelColor=21262d&color=21262d" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20BACKENDS-30363d?style=flat-square&labelColor=30363d&color=30363d" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LLM%20BACKENDS-d1d9e0?style=flat-square&labelColor=d1d9e0&color=d1d9e0" />
-    <img src="https://img.shields.io/badge/LLM%20BACKENDS-21262d?style=flat-square" />
+    <img src="https://img.shields.io/badge/LLM%20BACKENDS-30363d?style=flat-square" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OBSERVABILITY-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OBSERVABILITY-21262d?style=flat-square&labelColor=21262d&color=21262d" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OBSERVABILITY-ebedf0?style=flat-square&labelColor=ebedf0&color=ebedf0" />
-    <img src="https://img.shields.io/badge/OBSERVABILITY-161b22?style=flat-square" />
+    <img src="https://img.shields.io/badge/OBSERVABILITY-21262d?style=flat-square" />
   </picture>
 </p>
 
@@ -136,5 +136,5 @@ Thinking in boundaries, state, and latency budgets.
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
   <
-    /picture>
+  /picture>
 </p>
