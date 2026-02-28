@@ -6,19 +6,35 @@
   <sub>Backend Systems → Distributed Systems → AI Infrastructure</sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-d1d9e0?style=flat-square&labelColor=d1d9e0&color=d1d9e0&label=%20" />
+  <img src="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" width="100%" height="1" />
+</picture>
 
 <p>◼ SYSTEM PROFILE</p>
 
-```python
-class Engineer:
-    focus   = ["backend", "distributed systems", "AI infrastructure"]
-    builds  = ["high-throughput APIs", "multi-service architectures", "LLM backends"]
-    thinks  = ["in latency budgets", "failure domains", "data boundaries"]
-    current = "turning complexity into maintainable systems"
+```bash
+$ whoami
+  sinansiyann
+
+$ cat focus.txt
+  backend engineer · distributed systems · AI infrastructure
+
+$ ps aux | grep current
+  → designing APIs that don't fall over under load
+  → building service boundaries that actually hold
+  → wiring LLMs into production systems
+
+$ uptime
+  thinking in latency budgets, failure domains, and clean contracts
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-d1d9e0?style=flat-square&labelColor=d1d9e0&color=d1d9e0&label=%20" />
+  <img src="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" width="100%" height="1" />
+</picture>
 
 <p>◼ BUILD VECTOR</p>
 
@@ -57,7 +73,11 @@ class Engineer:
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-d1d9e0?style=flat-square&labelColor=d1d9e0&color=d1d9e0&label=%20" />
+  <img src="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" width="100%" height="1" />
+</picture>
 
 <p>◼ EXECUTION LAYER</p>
 
@@ -99,7 +119,11 @@ class Engineer:
 </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-d1d9e0?style=flat-square&labelColor=d1d9e0&color=d1d9e0&label=%20" />
+  <img src="https://img.shields.io/badge/-30363d?style=flat-square&labelColor=30363d&color=30363d&label=%20" width="100%" height="1" />
+</picture>
 
 <p>◼ SIGNAL</p>
 
@@ -127,6 +151,5 @@ class Engineer:
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
-  </
-  picture>
+  </picture>
 </p>
