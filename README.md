@@ -19,8 +19,8 @@ Thinking in boundaries, state, and latency budgets.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-21262d?style=flat-square&labelColor=21262d&color=21262d&logoColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-ebedf0?style=flat-square&labelColor=ebedf0&color=ebedf0&logoColor=000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-21262d?style=flat-square&labelColor=21262d&color=21262d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-ebedf0?style=flat-square&labelColor=ebedf0&color=ebedf0" />
     <img src="https://img.shields.io/badge/HIGH%20THROUGHPUT%20API-21262d?style=flat-square" />
   </picture>
   <picture>
@@ -100,27 +100,14 @@ Thinking in boundaries, state, and latency budgets.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinansiyann-ui&theme=nord_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinansiyann-ui&theme=nord_dark" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=nord_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinansiyann-ui&theme=github_dark" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=nord_dark&utcOffset=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github_dark&utcOffset=4" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github&utcOffset=4" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=nord_dark&utcOffset=4" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinansiyann-ui&theme=nord_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinansiyann-ui&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinansiyann-ui&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sinansiyann-ui&theme=github_dark&utcOffset=4" />
   </picture>
 </p>
 
@@ -135,6 +122,6 @@ Thinking in boundaries, state, and latency budgets.
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinansiyann-ui&custom_title=COMMIT%20GRAPH" />
-  <
-    /picture>
+  </
+    picture>
 </p>
