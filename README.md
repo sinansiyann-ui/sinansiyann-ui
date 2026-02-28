@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>sinansiyann</strong>
+  <strong>Practice</strong>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ```bash
 $ whoami
-  sinansiyann — backend engineer, performance obsessed
+  Practice — backend engineer, performance obsessed
 
 $ cat now.txt
   building LLM-powered backend services
